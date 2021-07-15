@@ -10,7 +10,7 @@ class hashicorp (
     ensure     => present,
     key_id     => '51852D87348FFC4C',
     user       => 'root',
-    key_source => 'https://keybase.io/hashicorp/pgp_keys.asc?fingerprint=91a6e7f85d05c65630bef18951852d87348ffc4c',
+    key_source => 'https://keybase.io/hashicorp/pgp_keys.asc?fingerprint=c874011f0ab405110d02105534365d9472d7468f',
     key_type   => public
   }
 
